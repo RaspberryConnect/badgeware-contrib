@@ -10,6 +10,7 @@ B = Roll Both Die. This will also give the total value of the Dice rolled.
 
 ### Config Screen:
 UP = To enter the Config screen.  
+
 Each Die can be set to have a different number of sides.  
 These can be 4,6,8,10,12, or 20.  
 A = Change the left Die sides.  
