@@ -1,6 +1,6 @@
 ## BW_Dice
 
-A simple Dice Roller app for use with board games that can be used on the Pimoroni Badeware Tufty 2350.
+A simple Dice Roller app for the Pimoroni Badeware Tufty 2350.
 There are two die available which can be set to different values up to 20 sides.
 
 ### Controls:
